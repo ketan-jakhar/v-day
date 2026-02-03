@@ -51,7 +51,7 @@ const heartEmojis = [
 ];
 
 const gifUrls = [
-    "https://media1.tenor.com/images/edaa5608f651abfd84183d04c36ad9ca/tenor.gif?itemid=8129004",
+    "https://media.giphy.com/media/yaff4iMtl189a/giphy.gif",
 ];
 
 const buttonZone = document.getElementById("button-zone");
